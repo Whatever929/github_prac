@@ -1,2 +1,2 @@
-# github_prac
-A repository for practicing Github.
+# Github Practice 
+A repository for practicing Github. 
